@@ -1,7 +1,11 @@
 # Curso Trilha Web Back end 2023
 <justify>
 Anotações que fiz durante a realização do curso de extensão da Let's Code 2023.
-  
+
+## Capturas de Tela
+
+![Captura de tela 2023-10-22 161642](https://github.com/Daviddust95/Lets-Code/assets/124353154/e1df262e-aa7d-4a83-838c-9dcf20e1824c)
+
 https://www.linkedin.com/posts/alisson-melo95_conclu%C3%AD-o-curso-trilha-digital-web-back-end-activity-7067392862224547841-Epli/
 </justify>
 
