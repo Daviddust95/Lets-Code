@@ -1,4 +1,6 @@
 # Curso Trilha Web Back end 2023
+![Curso Concluído](https://img.shields.io/badge/Curso-Conclu%C3%ADdo-brightgreen.svg)
+
 <justify>
 Anotações que fiz durante a realização do curso de extensão da Let's Code 2023.
 
